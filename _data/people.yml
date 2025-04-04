@@ -4,44 +4,53 @@ fsebastiani:
     webpage: "http://nmis.isti.cnr.it/sebastiani/"
     role: tenured
     bio: Director of Research
+    image: /img/people/fsebastiani.jpg
 
 aesuli:
     display_name: "Andrea Esuli"
     webpage: "https://www.esuli.it/"
     role: tenured
     bio: Director of Research
+    image: /img/people/aesuli.jpg
 
 amoreo:
     display_name: "Alejandro Moreo"
     webpage: "https://scholar.google.es/citations?user=4RIy5E4AAAAJ&hl=es"
     role: tenured
     bio: First Researcher
+    image: /img/people/amoreo.jpg
 
 apedrotti:
     display_name: "Andrea Pedrotti"
     webpage: "https://andreapdr.github.io/"
     role: postdoc
+    image: /img/people/apedrotti.jpg
 
 gpuccetti:
     display_name: "Giovanni Puccetti"
     webpage: "https://gpucce.github.io/"
     role: postdoc
+    image: /img/people/gpuccetti.jpg
 
 gsperduti:
     display_name: "Gianluca Sperduti"
     role: grad
+    image: /img/people/gsperduti.jpg
 
 lvolpi:
     display_name: "Lorenzo Volpi"
     role: grad
+    image: /img/people/lvolpi.jpg
 
 mcassese:
     display_name: "Maria Cassese"
     role: grad
+    image: /img/people/mcassese.jpg
 
 knegi:
     display_name: "Kajal Negi"
     role: grad
+    image: /img/people/knegi.jpg
 
 amolinari:
     display_name: "Alessio Molinari"
@@ -53,5 +62,6 @@ amolinari:
 scorbara:
     display_name: "Silvia Corbara"
     role: alum
-    bio: Ph.D 2024.
+    bio: Ph.D 2024. Now Data Scientist at ???
+
 
