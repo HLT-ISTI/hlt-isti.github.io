@@ -17,5 +17,5 @@ Quantification is the machine learning task of estimating the prevalence (or pro
 
 <div id="publications" style="font-size: 0.9rem;">
     <h4>Related Publications</h4>
-    {% include quant.html %}
+    {% include mm.html %}
 </div>
