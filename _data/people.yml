@@ -1,56 +1,56 @@
 
-fabrizio:
+fsebastiani:
     display_name: "Fabrizio Sebastiani"
     webpage: "http://nmis.isti.cnr.it/sebastiani/"
     role: tenured
     bio: Director of Research
 
-andrea_e:
+aesuli:
     display_name: "Andrea Esuli"
     webpage: "https://www.esuli.it/"
     role: tenured
     bio: Director of Research
 
-moreo:
+amoreo:
     display_name: "Alejandro Moreo"
     webpage: "https://scholar.google.es/citations?user=4RIy5E4AAAAJ&hl=es"
     role: tenured
     bio: First Researcher
 
-andrea_p:
+apedrotti:
     display_name: "Andrea Pedrotti"
     webpage: "https://andreapdr.github.io/"
     role: postdoc
 
-givanni:
+gpuccetti:
     display_name: "Giovanni Puccetti"
     webpage: "https://gpucce.github.io/"
     role: postdoc
 
-gianluca:
+gsperduti:
     display_name: "Gianluca Sperduti"
     role: grad
 
-lorenzo:
+lvolpi:
     display_name: "Lorenzo Volpi"
     role: grad
 
-maria:
+mcassese:
     display_name: "Maria Cassese"
     role: grad
 
-kajal:
+knegi:
     display_name: "Kajal Negi"
     role: grad
 
-alessio:
+amolinari:
     display_name: "Alessio Molinari"
     webpage: "https://scholar.google.com/citations?user=ZhtH52EAAAAJ&hl=it"
     role: alum
     image: /img/people/emanuele.jpeg
     bio: Ph.D 2024. Now Data Scientist at STRG
 
-silvia:
+scorbara:
     display_name: "Silvia Corbara"
     role: alum
     bio: Ph.D 2024.

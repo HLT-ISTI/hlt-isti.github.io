@@ -12,7 +12,7 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
   - key: tenured 
-    name: Tenured
+    name: Tenured Members
   - key: postdoc
     name: Postdocs
   - key: grad
