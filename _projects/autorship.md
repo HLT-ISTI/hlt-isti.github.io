@@ -5,7 +5,7 @@ description: Computational Approaches to Autorship Analysis
 
 people:
   - fsebastiani
-  - gmoreo
+  - amoreo
 
 layout: project
 last-updated: 2025-04-04

@@ -4,7 +4,7 @@ title: Large Language Models
 description: We are evaluating large language models and testing their multimodal capabilities.
 
 people:
-  - aesulu
+  - aesuli
   - gpuccetti
   - apedrotti
 
