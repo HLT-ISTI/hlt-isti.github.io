@@ -1,5 +1,5 @@
-name: LAMP
-url: https://lampgroup.github.io/
+name: AI4Text
+url: https://hlt-isti.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
