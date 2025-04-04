@@ -29,19 +29,19 @@ givanni:
 
 gianluca:
     display_name: "Gianluca Sperduti"
-    role: phd
+    role: grad
 
 lorenzo:
     display_name: "Lorenzo Volpi"
-    role: phd
+    role: grad
 
 maria:
     display_name: "Maria Cassese"
-    role: phd
+    role: grad
 
 kajal:
     display_name: "Kajal Negi"
-    role: phd
+    role: grad
 
 alessio:
     display_name: "Alessio Molinari"

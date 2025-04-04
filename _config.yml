@@ -11,8 +11,8 @@ permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
-  - key: faculty
-    name: Faculty
+  - key: tenured 
+    name: Tenured
   - key: postdoc
     name: Postdocs
   - key: grad
