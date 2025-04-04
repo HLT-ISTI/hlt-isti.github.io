@@ -4,8 +4,11 @@ title: Home
 notitle: true
 
 # groups of columns of {roles: list, width: num, image: bool}
-<!-- role-tables:
-- - roles: [tenured, postdoc]
+role-tables:
+- - roles: [tenured]
+    width: 3
+    image: true
+- - roles: [postdoc]
     width: 3
     image: true
 - - roles: [grad]
@@ -13,22 +16,7 @@ notitle: true
     image: true
   - roles: [alum]
     width: 11
-    image: false -->
-    role-tables:
-- - roles: [tenured]
-    width: 3
-    image: true
-  - roles: [postdoc]
-    width: 3
-    image: true
-  - roles: [grad]
-    width: 6
-    image: true
-    subcolumns: 
-      - roles: [grad1]
-        image: true
-      - roles: [grad2]
-        image: true
+    image: false
 
 ---
 
@@ -80,7 +68,7 @@ Our recent work includes <b>todo</b>.
 </div>
 
 <div id="people">
-    <!-- {% for role-table in page.role-tables %}
+    {% for role-table in page.role-tables %}
         <section class="people row justify-content-between">
             {% for role-column in role-table %}
                 <div class="col-md-{{ role-column.width }}">
@@ -90,22 +78,5 @@ Our recent work includes <b>todo</b>.
                 </div>
             {% endfor %}
         </section>
-    {% endfor %} -->
-    
-    {% if role-column.subcolumns %}
-    <div class="row">
-        {% for subcol in role-column.subcolumns %}
-            <div class="col-md-6">
-                {% for role in subcol.roles %}
-                    {% include role-people.html role=role image=subcol.image %}
-                {% endfor %}
-            </div>
-        {% endfor %}
-    </div>
-{% else %}
-    {% for role in role-column.roles %}
-        {% include role-people.html role=role image=role-column.image %}
     {% endfor %}
-{% endif %}
-
 </div>
