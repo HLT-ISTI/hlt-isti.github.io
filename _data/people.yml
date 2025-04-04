@@ -29,19 +29,19 @@ gpuccetti:
 
 gsperduti:
     display_name: "Gianluca Sperduti"
-    role: grad1
+    role: grad
 
 lvolpi:
     display_name: "Lorenzo Volpi"
-    role: grad2
+    role: grad
 
 mcassese:
     display_name: "Maria Cassese"
-    role: grad1
+    role: grad
 
 knegi:
     display_name: "Kajal Negi"
-    role: grad2
+    role: grad
 
 amolinari:
     display_name: "Alessio Molinari"
