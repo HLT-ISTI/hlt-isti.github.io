@@ -2,17 +2,20 @@
 fabrizio:
     display_name: "Fabrizio Sebastiani"
     webpage: "http://nmis.isti.cnr.it/sebastiani/"
-    role: Director of Research
+    role: tenured
+    bio: Director of Research
 
 andrea_e:
     display_name: "Andrea Esuli"
     webpage: "https://www.esuli.it/"
-    role: Director of Research
+    role: tenured
+    bio: Director of Research
 
 moreo:
     display_name: "Alejandro Moreo"
     webpage: "https://scholar.google.es/citations?user=4RIy5E4AAAAJ&hl=es"
-    role: First Researcher
+    role: tenured
+    bio: First Researcher
 
 andrea_p:
     display_name: "Andrea Pedrotti"
