@@ -1,4 +1,3 @@
-
 fsebastiani:
     display_name: "Fabrizio Sebastiani"
     webpage: "http://nmis.isti.cnr.it/sebastiani/"
@@ -15,7 +14,7 @@ aesuli:
 
 amoreo:
     display_name: "Alejandro Moreo"
-    webpage: "https://scholar.google.es/citations?user=4RIy5E4AAAAJ&hl=es"
+    webpage: "https://scholar.google.es/citations?user=4RIy5E4AAAAJ&hl=en"
     role: tenured
     bio: Senior Researcher
     image: /img/people/amoreo.jpg
@@ -54,13 +53,14 @@ knegi:
 
 amolinari:
     display_name: "Alessio Molinari"
-    webpage: "https://scholar.google.com/citations?user=ZhtH52EAAAAJ&hl=it"
+    webpage: "https://scholar.google.com/citations?user=ZhtH52EAAAAJ&hl=en"
     role: alum
     image: /img/people/emanuele.jpeg
     bio: Ph.D 2023. Now Data Scientist at STRG, Vienna, Austria
 
 scorbara:
     display_name: "Silvia Corbara"
+    webpage: "https://scholar.google.com/citations?user=Q50zso8AAAAJ&hl=en"
     role: alum
     bio: Ph.D 2024. Now Data Scientist at SET, Cesena, Italy
 
