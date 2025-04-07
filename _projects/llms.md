@@ -2,7 +2,7 @@
 # title: Large Language Models
 title: Complex Abilities of LLMs
 
-description: Assessment of large language models complex capabailities on multiple settings
+description: Assessment of Large Language Models' complex capabilities on multiple settings
 # description: We are evaluating large language models complex capabailities on multiple settings
 # and testing their multimodal capabilities.
 
