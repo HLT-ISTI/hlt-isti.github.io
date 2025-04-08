@@ -1,7 +1,7 @@
 ---
 title: Quantification
 
-description: Designing quantification algorithms to estimate class prevalence
+description: Development of quantification algorithms to estimate class prevalence
 # description: We are designing quantification algorithms to estimate class prevalence
 
 people:

@@ -22,8 +22,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus posuere leo vit
   <ul>
     <!-- <li>Vision and Language Models</li> -->
     <li>Multimodal Large Language Models</li>
-    <li>Machine Generated Text detection</li>
-    <li>Benchmark and datasets curation</li>
+    <li>Machine Generated Text Detection</li>
+    <li>Benchmark and Dataset Design</li>
     <!-- <li></li> -->
   </ul>
 </div>
