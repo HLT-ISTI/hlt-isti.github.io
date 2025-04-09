@@ -13,8 +13,7 @@ layout: project
 last-updated: 2025-04-04
 ---
 
-Quantification is the machine learning task of estimating the prevalence (or proportions) of each class in a dataset.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus posuere leo vitae finibus dictum. Maecenas dapibus nulla eu lacinia tempus. Integer consequat risus lectus, id iaculis leo maximus ut. Aliquam porttitor nulla id pulvinar finibus. Fusce sed dapibus quam. Maecenas consequat ornare ipsum, id fermentum elit vulputate ut. 
+In a number of applications involving classification, the final goal is not determining which class individual unlabelled instances belong to, but `estimating the prevalence of each class` in the unlabelled data. In recent years it has been pointed out that, in these cases, it would make sense to `directly optimise machine learning algorithms for this goal` rather than just optimising the classifier’s ability to label individual instances. The task of training estimators of class prevalence via supervised learning is known as learning to quantify, or, more simply, quantification. 
 
 <div id="publications" style="font-size: 0.9rem;">
     <h4>Selected Publications</h4>
