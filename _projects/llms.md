@@ -15,7 +15,12 @@ layout: project
 last-updated: 2025-04-04
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus posuere leo vitae finibus dictum. Maecenas dapibus nulla eu lacinia tempus. Integer consequat risus lectus, id iaculis leo maximus ut. Aliquam porttitor nulla id pulvinar finibus. Fusce sed dapibus quam. Maecenas consequat ornare ipsum, id fermentum elit vulputate ut. 
+Large Language Models are powerful tools with remarkable potential across a wide range of applications. However, despite their impressive capabilities, they often fall short in tasks that require `nuanced reasoning and critical thinking.` 
+
+For this reason, our research focuses on systematically evaluating LLMs using `carefully designed benchmarks` that stress their reasoning abilities and uncover their limitations, and improve them accordingly.
+In recent years, we have assessed the performance of LLMs in domains such as `mathematical reasoning, complex decision-making, and multimodal tasks` requiring fine-grained alignemnt between perceptual and textual modalities. These evaluations help shed light on the true capabilities and boundaries of current generative models.
+
+Our group is also actively involved in the development of `Machine-Generated Text detection methods.` As generative models become increasingly pervasive, our goal is to provide tools that can distinguish between human- and machine-generated content, ensuring transparency and enabling responsible use of AI technologies.
 
 <div id="themes" style="font-size: 0.9rem;">
   <h4>Research Topics</h4>

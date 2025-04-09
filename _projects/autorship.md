@@ -14,7 +14,8 @@ last-updated: 2025-04-04
 status: active
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus posuere leo vitae finibus dictum. Maecenas dapibus nulla eu lacinia tempus. Integer consequat risus lectus, id iaculis leo maximus ut. Aliquam porttitor nulla id pulvinar finibus. Fusce sed dapibus quam. Maecenas consequat ornare ipsum, id fermentum elit vulputate ut. 
+This research area focuses on the development of NLP and AI algorithms and methodologies, with particular emphasis on their application to various aspects of text analysis. Over the years, we have conducted extensive research on representation learning for text classification, including both cross-lingual and cross-domain scenarios, as well as robust representation learning for handling misspellings. Our work also covers sentiment classification, sequence learning for information extraction, cost-sensitive text classification, and the application of these methods to domains such as `authorship analysis, technology-assisted review, and native language identification.`
+
 
 <div id="themes" style="font-size: 0.9rem;">
   <h4>Research Topics</h4>
