@@ -20,8 +20,8 @@ In a number of applications involving classification, the final goal is not dete
   <h4>Research Topics</h4>
   <ul>
     <li>This</li>
+    <li>And</li>
     <li>That</li>
-    <li>Classifier Accuracy Prediction</li>
   </ul>
 </div>
 
