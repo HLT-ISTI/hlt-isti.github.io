@@ -2,7 +2,7 @@
 # title: Autorship Analysis
 title: NLP Applications
 
-description: Techniques for downstream tasks such as Autorship Analysis and Text Classification
+description: Techniques for downstream tasks such as Authorship Analysis and Text Classification
 # Computational Approaches to Autorship Analysis
 
 people:
