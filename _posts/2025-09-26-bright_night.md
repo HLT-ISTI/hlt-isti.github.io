@@ -1,6 +1,7 @@
 ---
 layout: post
 shortnews: false
+title: "AI4Text porta il laboratorio InvestigatorIA alla Notte Europea della Ricerca"
 icon: newspaper-o
 ---
 
