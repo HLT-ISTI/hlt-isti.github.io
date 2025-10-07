@@ -16,7 +16,7 @@ Attraverso una [sfida](https://www.esuli.it/projects/spot_the_ai.html) nel ricon
 
 <!-- <img src="/img/bright_night/IMG_0237.png" alt="drawing" width="400"/> -->
 <img src="/img/bright_night/bright_night_nice.jpeg" alt="drawing" width="400"/>
-<img src="/img/bright_night/camphoto_684387517.JPEG" alt="drawing" width="400"/>
+<img src="/img/bright_night/gatti_mezzi_bright.JPEG" alt="drawing" width="400"/>
 
 <img src="/img/bright_night/IMG_0236.png" alt="drawing" width="400"/>
 <img src="/img/bright_night/IMG_0238.png" alt="drawing" width="400"/>
