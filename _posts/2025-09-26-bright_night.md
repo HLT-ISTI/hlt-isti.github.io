@@ -5,8 +5,6 @@ title: "AI4Text porta il laboratorio InvestigatorIA alla Notte Europea della Ric
 icon: newspaper-o
 ---
 
-<!-- Hosting a <a href="https://www.isti.cnr.it/it/comunicazioni/seminari/289/From_Classics_to_Circuits:_Building_and_Explaining_Multilingual_Language_Models">talk</a> by visting Ph.D. student <a href="https://www.cl.uni-heidelberg.de/nlpgroup/person/riemenschneider">Frederick Riemenschneider</a> from Heidelberg University on mechanistic interpretability in multilingual language models and language modeling for ancient languages. -->
-
 AI4Text alla [Bright Night](https://bright-night.it/), Notte Europea della RIcerca 2025.
 
 In occasione della Notte Europea delle Ricercatrici e dei Ricercatori 2025, in cui si festeggia anche il [25° Anniversario dell'Area della ricerca di Pisa](https://nottedeiricercatori.pisa.it/), abbiamo tenuto il Laboratorio Aperto [InvestigatorIA: Scova il Sintetico!](https://nottedeiricercatori.pisa.it/2025/09/09/investigatoria-scova-il-sintetico/)
