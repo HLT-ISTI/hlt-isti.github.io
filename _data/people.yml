@@ -44,11 +44,13 @@ lvolpi:
     display_name: "Lorenzo Volpi"
     role: grad
     image: /img/people/lvolpi.jpg
+    webpage: "https://scholar.google.com/citations?user=AtHZ-OsAAAAJ&hl=en"
 
 mcassese:
     display_name: "Maria Cassese"
     role: grad
     image: /img/people/mcassese.jpg
+    webpage: "https://scholar.google.com/citations?user=W3T3hWkAAAAJ&hl=en"
 
 knegi:
     display_name: "Kajal Negi"
@@ -68,4 +70,9 @@ scorbara:
     role: alum
     bio: Ph.D 2024. Now Data Scientist at SET, Cesena, Italy
 
+amusso:
+    display_name: "Alice Musso"
+    webpage: "https://www.isti.cnr.it/it/chi-siamo/people-detail/1226/Alice_Musso"
+    role: grad
+    image: /img/people/amusso.jpg
 
