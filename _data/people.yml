@@ -29,14 +29,16 @@ apedrotti:
 gpuccetti:
     display_name: "Giovanni Puccetti"
     webpage: "https://gpucce.github.io/"
-    role: postdoc
+    role: tenured 
     bio: Researcher
     image: /img/people/gpuccetti.jpg
 
 gsperduti:
     display_name: "Gianluca Sperduti"
-    role: grad
+    role: alum 
     image: /img/people/gsperduti.jpg
+    webpage: "https://scholar.google.com/citations?user=6KFzalcAAAAJ&hl=en"
+    bio: Ph.D. 2025.
 
 lvolpi:
     display_name: "Lorenzo Volpi"
